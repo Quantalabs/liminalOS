@@ -278,9 +278,6 @@ in
             enabled = false;
           };
         };
-        input = {
-          sensitivity = if config.liminalOS.formFactor == "laptop" then "0.0" else "-0.65";
-        };
       };
     };
 
