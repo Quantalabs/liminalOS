@@ -7,7 +7,7 @@ window#waybar {
 
 .modules-left, .modules-center {
     opacity: 1;
-    background: linear-gradient(45deg, rgb(214, 39, 200), rgb(5, 83, 252));
+    background: rgba(0,0,0,0.7);
     border-radius: 0.5rem;
     padding: 2px;
 }
