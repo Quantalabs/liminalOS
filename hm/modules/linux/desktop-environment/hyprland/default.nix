@@ -278,6 +278,11 @@ in
             enabled = false;
           };
         };
+
+        monitor [
+          "HDMI-A-1,highres,auto,1.5"
+          "eDP-1,disable"
+        ];
       };
     };
 
